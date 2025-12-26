@@ -24,18 +24,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A24C55862EFE00910023372F /* DriverLog.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DriverLog.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A24C55862EFE00910023372F /* furfarch_2025App001.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = furfarch_2025App001.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A24C55972EFE00930023372F /* DriverLogTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DriverLogTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A24C55A12EFE00930023372F /* DriverLogUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DriverLogUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		A24C55A92EFE00930023372F /* Exceptions for "DriverLog" folder in "DriverLog" target */ = {
+		A24C55A92EFE00930023372F /* Exceptions for "DriverLog" folder in "furfarch_2025App001" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = A24C55852EFE00910023372F /* DriverLog */;
+			target = A24C55852EFE00910023372F /* furfarch_2025App001 */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
@@ -43,7 +43,7 @@
 		A24C55882EFE00910023372F /* DriverLog */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				A24C55A92EFE00930023372F /* Exceptions for "DriverLog" folder in "DriverLog" target */,
+				A24C55A92EFE00930023372F /* Exceptions for "DriverLog" folder in "furfarch_2025App001" target */,
 			);
 			path = DriverLog;
 			sourceTree = "<group>";
@@ -98,7 +98,7 @@
 		A24C55872EFE00910023372F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A24C55862EFE00910023372F /* DriverLog.app */,
+				A24C55862EFE00910023372F /* furfarch_2025App001.app */,
 				A24C55972EFE00930023372F /* DriverLogTests.xctest */,
 				A24C55A12EFE00930023372F /* DriverLogUITests.xctest */,
 			);
@@ -108,9 +108,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A24C55852EFE00910023372F /* DriverLog */ = {
+		A24C55852EFE00910023372F /* furfarch_2025App001 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A24C55AA2EFE00930023372F /* Build configuration list for PBXNativeTarget "DriverLog" */;
+			buildConfigurationList = A24C55AA2EFE00930023372F /* Build configuration list for PBXNativeTarget "furfarch_2025App001" */;
 			buildPhases = (
 				A24C55822EFE00910023372F /* Sources */,
 				A24C55832EFE00910023372F /* Frameworks */,
@@ -123,11 +123,11 @@
 			fileSystemSynchronizedGroups = (
 				A24C55882EFE00910023372F /* DriverLog */,
 			);
-			name = DriverLog;
+			name = furfarch_2025App001;
 			packageProductDependencies = (
 			);
 			productName = DriverLog;
-			productReference = A24C55862EFE00910023372F /* DriverLog.app */;
+			productReference = A24C55862EFE00910023372F /* furfarch_2025App001.app */;
 			productType = "com.apple.product-type.application";
 		};
 		A24C55962EFE00930023372F /* DriverLogTests */ = {
@@ -213,7 +213,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A24C55852EFE00910023372F /* DriverLog */,
+				A24C55852EFE00910023372F /* furfarch_2025App001 */,
 				A24C55962EFE00930023372F /* DriverLogTests */,
 				A24C55A02EFE00930023372F /* DriverLogUITests */,
 			);
@@ -271,12 +271,12 @@
 /* Begin PBXTargetDependency section */
 		A24C55992EFE00930023372F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A24C55852EFE00910023372F /* DriverLog */;
+			target = A24C55852EFE00910023372F /* furfarch_2025App001 */;
 			targetProxy = A24C55982EFE00930023372F /* PBXContainerItemProxy */;
 		};
 		A24C55A32EFE00930023372F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A24C55852EFE00910023372F /* DriverLog */;
+			target = A24C55852EFE00910023372F /* furfarch_2025App001 */;
 			targetProxy = A24C55A22EFE00930023372F /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -602,7 +602,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A24C55AA2EFE00930023372F /* Build configuration list for PBXNativeTarget "DriverLog" */ = {
+		A24C55AA2EFE00930023372F /* Build configuration list for PBXNativeTarget "furfarch_2025App001" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A24C55AB2EFE00930023372F /* Debug */,
